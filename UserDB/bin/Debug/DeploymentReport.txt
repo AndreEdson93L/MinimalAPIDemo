@@ -1,0 +1,20 @@
+﻿** In evidenza
+     Tabelle che verranno ricompilate
+       Nessuno
+     Indici cluster che verranno eliminati
+       Nessuno
+     Indici cluster che verranno creati
+       Nessuno
+     Possibili problemi di dati
+       Nessuno
+
+** Azioni utente
+     Crea
+       [dbo].[User] (Tabella)
+       [dbo].[spUser_Delete] (Routine)
+       [dbo].[spUser_Get] (Routine)
+       [dbo].[spUser_GetAll] (Routine)
+       [dbo].[spUser_Insert] (Routine)
+       [dbo].[spUser_Update] (Routine)
+
+** Azioni di supporto
